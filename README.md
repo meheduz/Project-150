@@ -1,4 +1,4 @@
-# 🐍 Advanced Snake Game in C with Raylib
+# 🐍 Snake Game in C.
 
 A modern twist on the classic Snake game, built using C and the [raylib](https://www.raylib.com/) game library. This version features:
 
